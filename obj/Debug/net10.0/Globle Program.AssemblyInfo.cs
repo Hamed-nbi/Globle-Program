@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Globle Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac6c196911a992f405858cac5ca31fe95b59abf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Globle Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Globle Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
