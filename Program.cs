@@ -17,10 +17,10 @@ foreach (var word in words)
     Console.WriteLine($"From: {word.FromLanguage} - {word.FromWord} => {word.ToLanguage} - {word.ToWord}");
 }
 
-var dict = (); // (key => value)
+var dict = new Dictionary<string, string>(); // (key => value)
 
 foreach  (var word in words)
 {
     dict[word.FromWord] = word.ToWord;
-    
+
 }
